@@ -9,7 +9,7 @@ Auto-Underground-Belts is a quality-of-life mod. It automatically converts trans
 2. Extract the **Auto-Underground-Belts** folder from the zip file to your Factorio mods directory.
 3. Start (or restart) the game.
 
-<sub>Note: On Windows you can open your mod directory by typing *%appdata%\factorio\mods* into the file explorer address bar.</sub>
+<sub>Note: On Windows you can typically open your Factoris mods directory by pasting ***%appdata%\factorio\mods*** into the address bar of file explorer.</sub>
 
 ## ⚙️ Configuration
 
