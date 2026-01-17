@@ -4,13 +4,10 @@ Auto-Underground-Belts is a quality-of-life mod. It automatically converts trans
 
 ![Demonstration Image](demo.gif)
 
-## 🛠 How it Works
-
-When you drag a belt:
-1. The mod monitors the tiles beneath your cursor.
-2. If you start dragging a belt on a non-concrete tile and then run over a patch of concrete, the mod will automatically surround the patch with underground belts if the patch does not exceed the maximum underground distance of the belt being placed.
-3. If you began by dragging a belt on top of concrete, the belts will behave normally.
-5. Belts will convert to base-game behavior if you attempt to belt over an entity or obstacle that exists on top of the concrete. Undergrounds wil placed around the entity, not the concrete. This is intended for unobstructed footpaths.
+## 🛠 Installation
+1. Download the zip file: [Auto-Underground Belts](Auto-Underground-Belts.zip)
+2. Extract the **Auto-Underground-Belts** folder from the zip file to your Factorio mods directory.
+3. Start (or restart) the game.
 
 ## ⚙️ Configuration
 
