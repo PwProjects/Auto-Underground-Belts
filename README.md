@@ -5,7 +5,7 @@ Auto-Underground-Belts is a quality-of-life mod. It automatically converts trans
 ![Demonstration Image](demo.gif)
 
 ## 🛠 Installation
-1. Download the zip file: [Auto-Underground Belts](Auto-Underground-Belts.zip)
+1. Download the zip file: [Auto-Underground Belts](https://github.com/PwProjects/Auto-Underground-Belts/releases/download/v1.0.9/Auto-Underground-Belts.zip)
 2. Extract the **Auto-Underground-Belts** folder from the zip file to your Factorio mods directory.
 3. Start (or restart) the game.
 
